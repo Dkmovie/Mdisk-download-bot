@@ -3,7 +3,7 @@
 *A Telegram MDisk Video Downloader Bot, You can watch downloaded Videos without MX player (bypass mdisk requirements)*
 
 ---
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/divnog?referralCode=2AeM3i)
 ## Variables
 
 - `HASH` Your API Hash from my.telegram.org
