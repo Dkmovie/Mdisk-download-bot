@@ -1,1 +1,1 @@
-work: python3 main.py
+Drone: python3 main.py
