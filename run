@@ -1,8 +1,0 @@
-from pyrogram import Client
-
-api_id = 14438754
-api_hash = "baeb7d71bd10d8b5d8a97fce7ad9707d"
-
-app = Client("@movie_a1", api_id=api_id, api_hash=api_hash)
-
-app.run()
